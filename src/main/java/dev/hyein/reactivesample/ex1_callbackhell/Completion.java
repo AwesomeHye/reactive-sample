@@ -1,4 +1,4 @@
-package dev.hyein.reactivesample.custom;
+package dev.hyein.reactivesample.ex1_callbackhell;
 
 import lombok.Getter;
 import lombok.extern.slf4j.Slf4j;

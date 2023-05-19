@@ -1,6 +1,5 @@
-package dev.hyein.reactivesample;
+package dev.hyein.reactivesample.ex1_callbackhell;
 
-import dev.hyein.reactivesample.custom.Completion;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor;
 import org.springframework.util.concurrent.ListenableFuture;

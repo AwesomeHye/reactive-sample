@@ -1,4 +1,4 @@
-package dev.hyein.reactivesample;
+package dev.hyein.reactivesample.ex2_pubsub;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.SpringApplication;
